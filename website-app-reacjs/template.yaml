@@ -14,9 +14,9 @@ spec:
   parameters:
     - title: Fill in some steps
       required:
-        - appname
+        - name
       properties:
-        appname:
+        name:
           title: Name
           type: string
           description: Unique name of the component
